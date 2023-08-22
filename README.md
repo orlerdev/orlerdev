@@ -1,6 +1,6 @@
-![](https://github.com/orlerdev/readmeBanner.png)
+![](./readmeBanner.png)
 
-- Hi, I'm Jared
+# Hi, I'm Jared
 - I’m interested in learning everything I can about full stack and DevOps coding and programming.
 - I’m currently learning Java.
 - I’m looking to collaborate on anything.
